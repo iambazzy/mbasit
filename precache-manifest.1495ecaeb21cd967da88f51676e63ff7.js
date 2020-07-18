@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03642effe4d9255019585429807aadc4",
+    "revision": "6edf25c38e534b9295835e135ec03c8f",
     "url": "/mbasit/index.html"
   },
   {
-    "revision": "77861764863659757140",
+    "revision": "8d3dcb189c12ae4df146",
     "url": "/mbasit/static/css/main.82d67d09.chunk.css"
   },
   {
-    "revision": "7733d1703fa2e364cf9b",
-    "url": "/mbasit/static/js/2.ca9d126f.chunk.js"
+    "revision": "d067f6f0f2d9494561fe",
+    "url": "/mbasit/static/js/2.752e6948.chunk.js"
   },
   {
-    "revision": "77861764863659757140",
-    "url": "/mbasit/static/js/main.0aafde9c.chunk.js"
+    "revision": "8d3dcb189c12ae4df146",
+    "url": "/mbasit/static/js/main.33ae93c7.chunk.js"
   },
   {
     "revision": "2b38971b99c2a637d3e9",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/mbasit/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "f4bba73fc2aba1341d3bbe616a442d19",
+    "url": "/mbasit/static/media/cricket.f4bba73f.wav"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
